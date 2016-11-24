@@ -1,0 +1,114 @@
+*{
+    box-sizing: border-box;
+}
+html,
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+html{
+    font-size: 16px;
+    color: #333;
+}
+body{
+    display: flex;
+    background: #eee;
+    padding: 20px;
+}
+ol, ul{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: #005689;
+}
+.tabbed-news{
+      width: 100%;
+      max-width: 600px;
+      box-shadow: 0 3px 4px rgba(0,0,0,0.4);
+      background: #FFF;
+      border-radius: 3px;
+      overflow: hidden;
+      margin: auto;
+}
+.tabbed-news__header{
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    box-shadow: 0 2px 5px #eee;
+    font-size: .8em;
+}
+.tabbed-news__header-item{
+    display: block;
+    width: 33.33333333%;
+    height: 50px;
+    float: left;
+    margin: 0;
+    background: transparent;
+    border: 0;
+    position: relative;
+    overflow: hidden;
+    z-index: 2;
+    cursor: pointer;
+    font-size: inherit;
+}
+.tabbed-news__header-item:after{
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 100%;
+    background: #005689;
+    transition: transform .2s ease-in;
+    will-change: transform;
+    z-index: -1;
+}
+.tabbed-news__header-item:hover:after,
+.tabbed-news__header-item:focus:after{
+    transform: translate(0, -3px);
+}
+.tabbed-news__header-item.active{
+    color: #fff;
+}
+.tabbed-news__header-item.active:after{
+    transform: translate(0, -100%);
+}
+.tabbed-news__body{
+    padding: 20px;
+}
+.no-selection{
+    text-align: center;
+    font-size: 1em;
+    color: #ddd;
+}
+.tabbed-news_link-list{
+    padding-left: 20px;
+    opacity: 0;
+    transition: opacity .2s;
+    will-change: opacity;
+}
+.tabbed-news_link-list li{
+    border-bottom: 1px solid #eee;
+    font-size: .8em;
+    padding: 7px 0;
+}
+.tabbed-news_link-list li a{
+    display: block;
+}
+.tabbed-news_link-list li:last-child{
+    border: 0;
+}
+@media (max-width: 500px) {
+    .tabbed-news__header{
+        height: auto;
+    }
+    .tabbed-news__header-item{
+        padding: 10px 0;
+        width: 100%;
+        float: none;
+    }
+}

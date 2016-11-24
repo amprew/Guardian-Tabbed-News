@@ -1,0 +1,124 @@
+{
+   "response":{
+      "status":"ok",
+      "userTier":"developer",
+      "total":184262,
+      "startIndex":1,
+      "pageSize":10,
+      "currentPage":1,
+      "pages":18427,
+      "orderBy":"relevance",
+      "results":[
+         {
+            "id":"football/2016/nov/10/football-quiz-muted-celebrations-non-celebrate-muted-sport",
+            "type":"article",
+            "sectionId":"football",
+            "sectionName":"Football",
+            "webPublicationDate":"2016-11-10T13:15:17Z",
+            "webTitle":"Football quiz: muted celebrations",
+            "webUrl":"https://www.theguardian.com/football/2016/nov/10/football-quiz-muted-celebrations-non-celebrate-muted-sport",
+            "apiUrl":"https://content.guardianapis.com/football/2016/nov/10/football-quiz-muted-celebrations-non-celebrate-muted-sport",
+            "isHosted":false
+         },
+         {
+            "id":"football/2016/sep/01/football-quiz-transfer-window",
+            "type":"article",
+            "sectionId":"football",
+            "sectionName":"Football",
+            "webPublicationDate":"2016-09-01T09:50:11Z",
+            "webTitle":"Football quiz: transfer U-turns",
+            "webUrl":"https://www.theguardian.com/football/2016/sep/01/football-quiz-transfer-window",
+            "apiUrl":"https://content.guardianapis.com/football/2016/sep/01/football-quiz-transfer-window",
+            "isHosted":false
+         },
+         {
+            "id":"football/2016/nov/16/the-fiver-england-spain-the-past",
+            "type":"article",
+            "sectionId":"football",
+            "sectionName":"Football",
+            "webPublicationDate":"2016-11-16T15:54:23Z",
+            "webTitle":"The Fiver | Yes, football was better in The Past",
+            "webUrl":"https://www.theguardian.com/football/2016/nov/16/the-fiver-england-spain-the-past",
+            "apiUrl":"https://content.guardianapis.com/football/2016/nov/16/the-fiver-england-spain-the-past",
+            "isHosted":false
+         },
+         {
+            "id":"football/blog/2016/oct/21/joy-of-six-comedy-football-goals-brazil-1970-scarborough-1996-brian-mcclair",
+            "type":"article",
+            "sectionId":"football",
+            "sectionName":"Football",
+            "webPublicationDate":"2016-10-21T09:12:01Z",
+            "webTitle":"The Joy of Six: comedy football goals | Rob Smyth",
+            "webUrl":"https://www.theguardian.com/football/blog/2016/oct/21/joy-of-six-comedy-football-goals-brazil-1970-scarborough-1996-brian-mcclair",
+            "apiUrl":"https://content.guardianapis.com/football/blog/2016/oct/21/joy-of-six-comedy-football-goals-brazil-1970-scarborough-1996-brian-mcclair",
+            "isHosted":false
+         },
+         {
+            "id":"football/blog/2016/oct/14/the-joy-of-six-football-managerial-debuts",
+            "type":"article",
+            "sectionId":"football",
+            "sectionName":"Football",
+            "webPublicationDate":"2016-10-14T09:42:05Z",
+            "webTitle":"The Joy of Six: football managerial debuts | Paul Doyle",
+            "webUrl":"https://www.theguardian.com/football/blog/2016/oct/14/the-joy-of-six-football-managerial-debuts",
+            "apiUrl":"https://content.guardianapis.com/football/blog/2016/oct/14/the-joy-of-six-football-managerial-debuts",
+            "isHosted":false
+         },
+         {
+            "id":"football/2016/oct/25/football-quiz-name-the-league-cup-sponsor",
+            "type":"article",
+            "sectionId":"football",
+            "sectionName":"Football",
+            "webPublicationDate":"2016-10-25T10:36:46Z",
+            "webTitle":"Football quiz: name the League Cup sponsor",
+            "webUrl":"https://www.theguardian.com/football/2016/oct/25/football-quiz-name-the-league-cup-sponsor",
+            "apiUrl":"https://content.guardianapis.com/football/2016/oct/25/football-quiz-name-the-league-cup-sponsor",
+            "isHosted":false
+         },
+         {
+            "id":"football/2016/nov/14/david-conn-wins-football-journalist-of-the-year-at-mbna-northwest-football-awards",
+            "type":"article",
+            "sectionId":"football",
+            "sectionName":"Football",
+            "webPublicationDate":"2016-11-14T21:13:05Z",
+            "webTitle":"David Conn wins football journalist of the year at MBNA Northwest Football Awards",
+            "webUrl":"https://www.theguardian.com/football/2016/nov/14/david-conn-wins-football-journalist-of-the-year-at-mbna-northwest-football-awards",
+            "apiUrl":"https://content.guardianapis.com/football/2016/nov/14/david-conn-wins-football-journalist-of-the-year-at-mbna-northwest-football-awards",
+            "isHosted":false
+         },
+         {
+            "id":"football/2016/oct/13/football-transfer-rumours-matteo-darmian-to-barcelona",
+            "type":"article",
+            "sectionId":"football",
+            "sectionName":"Football",
+            "webPublicationDate":"2016-10-13T07:25:38Z",
+            "webTitle":"Football transfer rumours: Matteo Darmian to Barcelona?",
+            "webUrl":"https://www.theguardian.com/football/2016/oct/13/football-transfer-rumours-matteo-darmian-to-barcelona",
+            "apiUrl":"https://content.guardianapis.com/football/2016/oct/13/football-transfer-rumours-matteo-darmian-to-barcelona",
+            "isHosted":false
+         },
+         {
+            "id":"football/2016/aug/03/marta-brazils-brilliant-football-nomad",
+            "type":"article",
+            "sectionId":"football",
+            "sectionName":"Football",
+            "webPublicationDate":"2016-08-03T08:00:42Z",
+            "webTitle":"Marta, Brazil's brilliant football nomad",
+            "webUrl":"https://www.theguardian.com/football/2016/aug/03/marta-brazils-brilliant-football-nomad",
+            "apiUrl":"https://content.guardianapis.com/football/2016/aug/03/marta-brazils-brilliant-football-nomad",
+            "isHosted":false
+         },
+         {
+            "id":"global/football-league-blog/2016/apr/30/football-league-your-thoughts-sheffield-wednesday",
+            "type":"article",
+            "sectionId":"global",
+            "sectionName":"Global",
+            "webPublicationDate":"2016-04-30T19:25:35Z",
+            "webTitle":"Football League: your thoughts",
+            "webUrl":"https://www.theguardian.com/global/football-league-blog/2016/apr/30/football-league-your-thoughts-sheffield-wednesday",
+            "apiUrl":"https://content.guardianapis.com/global/football-league-blog/2016/apr/30/football-league-your-thoughts-sheffield-wednesday",
+            "isHosted":false
+         }
+      ]
+   }
+}
